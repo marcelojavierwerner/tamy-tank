@@ -94,7 +94,7 @@ El desarrollo del proyecto se caracterizó por un enfoque iterativo ágil, regis
 
 El desarrollo de *Tamy Tank* no es un evento aislado en mi carrera, sino un eslabón fundamental en mi trayectoria técnica:
 
-$$\text{Programación Orientada a Objetos (C\#/Unity)} \longrightarrow \text{Desarrollo de Software} \longrightarrow \text{Análisis de Datos} \longrightarrow \text{Ciencia de Datos (Python/SQL)}$$
+**Programación Orientada a Objetos (C# / Unity)** ➔ **Desarrollo de Software** ➔ **Análisis de Datos** ➔ **Ciencia de Datos (Python / SQL)**
 
 ### Habilidades Transferibles
 * **Lógica Algorítmica:** La implementación de corrutinas y manejo de estados en C# facilitó la transición hacia la manipulación eficiente de datos y estructuras complejas en Python.
