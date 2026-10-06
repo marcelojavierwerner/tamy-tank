@@ -21,15 +21,15 @@ Todo el apartado gráfico (fondos de pantalla temáticos de escenarios mundiales
 
 | Pantalla de Inicio | Machu Picchu (Perú) |
 | :---: | :---: |
-| ![Inicio](Screenshots/menu-proncipal.jpg) | ![Machu Picchu](Screenshots/machu-picchu.jpg) |
+| ![Inicio](Screenshots/menu-principal.png) | ![Machu Picchu](Screenshots/machu-picchu.jpg) |
 
 | Estatua de la Libertad (EE. UU.) | Molinos de Tulipanes (Países Bajos) |
 | :---: | :---: |
-| ![Estatua de la Libertad](Screenshots/Screenshot_20190102-235935.jpg) | ![Países Bajos](Screenshots/Screenshot_20190103-000022.jpg) |
+| ![Estatua de la Libertad](Screenshots/estatua-libertad.jpg) | ![Países Bajos](Screenshots/molinos-holanda.jpg) |
 
 | Torre Eiffel (Francia) | Puerto Nyhavn (Dinamarca) |
 | :---: | :---: |
-| ![Torre Eiffel](Screenshots/Screenshot_20190103-000054.jpg) | ![Nyhavn](Screenshots/Screenshot_20190108-000842.jpg) |
+| ![Torre Eiffel](Screenshots/torre-eiffel.jpg) | ![Nyhavn](Screenshots/nyhavn-dinamarca.jpg) |
 
 ---
 
