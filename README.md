@@ -9,7 +9,7 @@
 
 **Tamy Tank** es un videojuego de acción en 2D desarrollado de forma independiente entre **marzo de 2019** y **enero de 2020**, publicado comercialmente para dispositivos Android. 
 
-El proyecto nació como una iniciativa personal con motivo del nacimiento de mi hija (29 de marzo de 2019) y se convirtió en un entorno de aprendizaje práctico para dominar conceptos fundamentales de programación orientada a objetos (POO), físicas 2D, arquitectura orientada a estados, interfaz de usuario (UI/UX) y diseño gráfico vectorial.
+El proyecto nació como una iniciativa personal con motivo de la llegada al mundo de mi hija en 2019, junto a otro juego "La Granja de Flor" y se convirtió en un entorno de aprendizaje práctico para dominar conceptos fundamentales de programación orientada a objetos (POO), físicas 2D, arquitectura orientada a estados, interfaz de usuario (UI/UX) y diseño gráfico vectorial.
 
 Aunque mi perfil profesional actual está enfocado en la **Ciencia de Datos** y el **Análisis Avanzado**, este repositorio documenta la base técnica y lógica sobre la cual construí mi capacidad analítica y de resolución de problemas.
 
