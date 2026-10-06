@@ -21,7 +21,7 @@ Todo el apartado gráfico (fondos de pantalla temáticos de escenarios mundiales
 
 | Pantalla de Inicio | Machu Picchu (Perú) |
 | :---: | :---: |
-| ![Inicio](Screenshots/Screenshot_20190102-235921.png) | ![Machu Picchu](Screenshots/Machu%20Picchu.jpg) |
+| ![Inicio](Screenshots/menu-proncipal.jpg) | ![Machu Picchu](Screenshots/machu-picchu.jpg) |
 
 | Estatua de la Libertad (EE. UU.) | Molinos de Tulipanes (Países Bajos) |
 | :---: | :---: |
